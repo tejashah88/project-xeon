@@ -1,0 +1,1248 @@
+[
+  {
+    "value": "AED",
+    "synonyms": [
+      "AED",
+      "UAE Dirham"
+    ]
+  },
+  {
+    "value": "AFN",
+    "synonyms": [
+      "AFN",
+      "Afghani"
+    ]
+  },
+  {
+    "value": "ALL",
+    "synonyms": [
+      "ALL",
+      "Lek"
+    ]
+  },
+  {
+    "value": "AMD",
+    "synonyms": [
+      "AMD",
+      "Armenian Dram"
+    ]
+  },
+  {
+    "value": "ANG",
+    "synonyms": [
+      "ANG",
+      "Netherlands Antillean Guilder"
+    ]
+  },
+  {
+    "value": "AOA",
+    "synonyms": [
+      "AOA",
+      "Kwanza"
+    ]
+  },
+  {
+    "value": "ARS",
+    "synonyms": [
+      "ARS",
+      "Argentine Peso"
+    ]
+  },
+  {
+    "value": "AUD",
+    "synonyms": [
+      "AUD",
+      "Australian Dollar"
+    ]
+  },
+  {
+    "value": "AWG",
+    "synonyms": [
+      "AWG",
+      "Aruban Florin"
+    ]
+  },
+  {
+    "value": "AZN",
+    "synonyms": [
+      "AZN",
+      "Azerbaijan Manat"
+    ]
+  },
+  {
+    "value": "BAM",
+    "synonyms": [
+      "BAM",
+      "Convertible Mark"
+    ]
+  },
+  {
+    "value": "BBD",
+    "synonyms": [
+      "BBD",
+      "Barbados Dollar"
+    ]
+  },
+  {
+    "value": "BDT",
+    "synonyms": [
+      "BDT",
+      "Taka"
+    ]
+  },
+  {
+    "value": "BGN",
+    "synonyms": [
+      "BGN",
+      "Bulgarian Lev"
+    ]
+  },
+  {
+    "value": "BHD",
+    "synonyms": [
+      "BHD",
+      "Bahraini Dinar"
+    ]
+  },
+  {
+    "value": "BIF",
+    "synonyms": [
+      "BIF",
+      "Burundi Franc"
+    ]
+  },
+  {
+    "value": "BMD",
+    "synonyms": [
+      "BMD",
+      "Bermudian Dollar"
+    ]
+  },
+  {
+    "value": "BND",
+    "synonyms": [
+      "BND",
+      "Brunei Dollar"
+    ]
+  },
+  {
+    "value": "BOB",
+    "synonyms": [
+      "BOB",
+      "Boliviano"
+    ]
+  },
+  {
+    "value": "BOV",
+    "synonyms": [
+      "BOV",
+      "Mvdol"
+    ]
+  },
+  {
+    "value": "BRL",
+    "synonyms": [
+      "BRL",
+      "Brazilian Real"
+    ]
+  },
+  {
+    "value": "BSD",
+    "synonyms": [
+      "BSD",
+      "Bahamian Dollar"
+    ]
+  },
+  {
+    "value": "BTN",
+    "synonyms": [
+      "BTN",
+      "Ngultrum"
+    ]
+  },
+  {
+    "value": "BWP",
+    "synonyms": [
+      "BWP",
+      "Pula"
+    ]
+  },
+  {
+    "value": "BYN",
+    "synonyms": [
+      "BYN",
+      "Belarusian Ruble"
+    ]
+  },
+  {
+    "value": "BZD",
+    "synonyms": [
+      "BZD",
+      "Belize Dollar"
+    ]
+  },
+  {
+    "value": "CAD",
+    "synonyms": [
+      "CAD",
+      "Canadian Dollar"
+    ]
+  },
+  {
+    "value": "CDF",
+    "synonyms": [
+      "CDF",
+      "Congolese Franc"
+    ]
+  },
+  {
+    "value": "CHE",
+    "synonyms": [
+      "CHE",
+      "WIR Euro"
+    ]
+  },
+  {
+    "value": "CHF",
+    "synonyms": [
+      "CHF",
+      "Swiss Franc"
+    ]
+  },
+  {
+    "value": "CHW",
+    "synonyms": [
+      "CHW",
+      "WIR Franc"
+    ]
+  },
+  {
+    "value": "CLF",
+    "synonyms": [
+      "CLF",
+      "Unidad de Fomento"
+    ]
+  },
+  {
+    "value": "CLP",
+    "synonyms": [
+      "CLP",
+      "Chilean Peso"
+    ]
+  },
+  {
+    "value": "CNY",
+    "synonyms": [
+      "CNY",
+      "Yuan Renminbi"
+    ]
+  },
+  {
+    "value": "COP",
+    "synonyms": [
+      "COP",
+      "Colombian Peso"
+    ]
+  },
+  {
+    "value": "COU",
+    "synonyms": [
+      "COU",
+      "Unidad de Valor Real"
+    ]
+  },
+  {
+    "value": "CRC",
+    "synonyms": [
+      "CRC",
+      "Costa Rican Colon"
+    ]
+  },
+  {
+    "value": "CUC",
+    "synonyms": [
+      "CUC",
+      "Peso Convertible"
+    ]
+  },
+  {
+    "value": "CUP",
+    "synonyms": [
+      "CUP",
+      "Cuban Peso"
+    ]
+  },
+  {
+    "value": "CVE",
+    "synonyms": [
+      "CVE",
+      "Cabo Verde Escudo"
+    ]
+  },
+  {
+    "value": "CZK",
+    "synonyms": [
+      "CZK",
+      "Czech Koruna"
+    ]
+  },
+  {
+    "value": "DJF",
+    "synonyms": [
+      "DJF",
+      "Djibouti Franc"
+    ]
+  },
+  {
+    "value": "DKK",
+    "synonyms": [
+      "DKK",
+      "Danish Krone"
+    ]
+  },
+  {
+    "value": "DOP",
+    "synonyms": [
+      "DOP",
+      "Dominican Peso"
+    ]
+  },
+  {
+    "value": "DZD",
+    "synonyms": [
+      "DZD",
+      "Algerian Dinar"
+    ]
+  },
+  {
+    "value": "EGP",
+    "synonyms": [
+      "EGP",
+      "Egyptian Pound"
+    ]
+  },
+  {
+    "value": "ERN",
+    "synonyms": [
+      "ERN",
+      "Nakfa"
+    ]
+  },
+  {
+    "value": "ETB",
+    "synonyms": [
+      "ETB",
+      "Ethiopian Birr"
+    ]
+  },
+  {
+    "value": "EUR",
+    "synonyms": [
+      "EUR",
+      "Euro"
+    ]
+  },
+  {
+    "value": "FJD",
+    "synonyms": [
+      "FJD",
+      "Fiji Dollar"
+    ]
+  },
+  {
+    "value": "FKP",
+    "synonyms": [
+      "FKP",
+      "Falkland Islands Pound"
+    ]
+  },
+  {
+    "value": "GBP",
+    "synonyms": [
+      "GBP",
+      "Pound Sterling"
+    ]
+  },
+  {
+    "value": "GEL",
+    "synonyms": [
+      "GEL",
+      "Lari"
+    ]
+  },
+  {
+    "value": "GHS",
+    "synonyms": [
+      "GHS",
+      "Ghana Cedi"
+    ]
+  },
+  {
+    "value": "GIP",
+    "synonyms": [
+      "GIP",
+      "Gibraltar Pound"
+    ]
+  },
+  {
+    "value": "GMD",
+    "synonyms": [
+      "GMD",
+      "Dalasi"
+    ]
+  },
+  {
+    "value": "GNF",
+    "synonyms": [
+      "GNF",
+      "Guinean Franc"
+    ]
+  },
+  {
+    "value": "GTQ",
+    "synonyms": [
+      "GTQ",
+      "Quetzal"
+    ]
+  },
+  {
+    "value": "GYD",
+    "synonyms": [
+      "GYD",
+      "Guyana Dollar"
+    ]
+  },
+  {
+    "value": "HKD",
+    "synonyms": [
+      "HKD",
+      "Hong Kong Dollar"
+    ]
+  },
+  {
+    "value": "HNL",
+    "synonyms": [
+      "HNL",
+      "Lempira"
+    ]
+  },
+  {
+    "value": "HRK",
+    "synonyms": [
+      "HRK",
+      "Kuna"
+    ]
+  },
+  {
+    "value": "HTG",
+    "synonyms": [
+      "HTG",
+      "Gourde"
+    ]
+  },
+  {
+    "value": "HUF",
+    "synonyms": [
+      "HUF",
+      "Forint"
+    ]
+  },
+  {
+    "value": "IDR",
+    "synonyms": [
+      "IDR",
+      "Rupiah"
+    ]
+  },
+  {
+    "value": "ILS",
+    "synonyms": [
+      "ILS",
+      "New Israeli Sheqel"
+    ]
+  },
+  {
+    "value": "INR",
+    "synonyms": [
+      "INR",
+      "Indian Rupee"
+    ]
+  },
+  {
+    "value": "IQD",
+    "synonyms": [
+      "IQD",
+      "Iraqi Dinar"
+    ]
+  },
+  {
+    "value": "IRR",
+    "synonyms": [
+      "IRR",
+      "Iranian Rial"
+    ]
+  },
+  {
+    "value": "ISK",
+    "synonyms": [
+      "ISK",
+      "Iceland Krona"
+    ]
+  },
+  {
+    "value": "JMD",
+    "synonyms": [
+      "JMD",
+      "Jamaican Dollar"
+    ]
+  },
+  {
+    "value": "JOD",
+    "synonyms": [
+      "JOD",
+      "Jordanian Dinar"
+    ]
+  },
+  {
+    "value": "JPY",
+    "synonyms": [
+      "JPY",
+      "Yen"
+    ]
+  },
+  {
+    "value": "KES",
+    "synonyms": [
+      "KES",
+      "Kenyan Shilling"
+    ]
+  },
+  {
+    "value": "KGS",
+    "synonyms": [
+      "KGS",
+      "Som"
+    ]
+  },
+  {
+    "value": "KHR",
+    "synonyms": [
+      "KHR",
+      "Riel"
+    ]
+  },
+  {
+    "value": "KMF",
+    "synonyms": [
+      "KMF",
+      "Comorian Franc "
+    ]
+  },
+  {
+    "value": "KPW",
+    "synonyms": [
+      "KPW",
+      "North Korean Won"
+    ]
+  },
+  {
+    "value": "KRW",
+    "synonyms": [
+      "KRW",
+      "Won"
+    ]
+  },
+  {
+    "value": "KWD",
+    "synonyms": [
+      "KWD",
+      "Kuwaiti Dinar"
+    ]
+  },
+  {
+    "value": "KYD",
+    "synonyms": [
+      "KYD",
+      "Cayman Islands Dollar"
+    ]
+  },
+  {
+    "value": "KZT",
+    "synonyms": [
+      "KZT",
+      "Tenge"
+    ]
+  },
+  {
+    "value": "LAK",
+    "synonyms": [
+      "LAK",
+      "Lao Kip"
+    ]
+  },
+  {
+    "value": "LBP",
+    "synonyms": [
+      "LBP",
+      "Lebanese Pound"
+    ]
+  },
+  {
+    "value": "LKR",
+    "synonyms": [
+      "LKR",
+      "Sri Lanka Rupee"
+    ]
+  },
+  {
+    "value": "LRD",
+    "synonyms": [
+      "LRD",
+      "Liberian Dollar"
+    ]
+  },
+  {
+    "value": "LSL",
+    "synonyms": [
+      "LSL",
+      "Loti"
+    ]
+  },
+  {
+    "value": "LYD",
+    "synonyms": [
+      "LYD",
+      "Libyan Dinar"
+    ]
+  },
+  {
+    "value": "MAD",
+    "synonyms": [
+      "MAD",
+      "Moroccan Dirham"
+    ]
+  },
+  {
+    "value": "MDL",
+    "synonyms": [
+      "MDL",
+      "Moldovan Leu"
+    ]
+  },
+  {
+    "value": "MGA",
+    "synonyms": [
+      "MGA",
+      "Malagasy Ariary"
+    ]
+  },
+  {
+    "value": "MKD",
+    "synonyms": [
+      "MKD",
+      "Denar"
+    ]
+  },
+  {
+    "value": "MMK",
+    "synonyms": [
+      "MMK",
+      "Kyat"
+    ]
+  },
+  {
+    "value": "MNT",
+    "synonyms": [
+      "MNT",
+      "Tugrik"
+    ]
+  },
+  {
+    "value": "MOP",
+    "synonyms": [
+      "MOP",
+      "Pataca"
+    ]
+  },
+  {
+    "value": "MRU",
+    "synonyms": [
+      "MRU",
+      "Ouguiya"
+    ]
+  },
+  {
+    "value": "MUR",
+    "synonyms": [
+      "MUR",
+      "Mauritius Rupee"
+    ]
+  },
+  {
+    "value": "MVR",
+    "synonyms": [
+      "MVR",
+      "Rufiyaa"
+    ]
+  },
+  {
+    "value": "MWK",
+    "synonyms": [
+      "MWK",
+      "Malawi Kwacha"
+    ]
+  },
+  {
+    "value": "MXN",
+    "synonyms": [
+      "MXN",
+      "Mexican Peso"
+    ]
+  },
+  {
+    "value": "MXV",
+    "synonyms": [
+      "MXV",
+      "Mexican Unidad de Inversion (UDI)"
+    ]
+  },
+  {
+    "value": "MYR",
+    "synonyms": [
+      "MYR",
+      "Malaysian Ringgit"
+    ]
+  },
+  {
+    "value": "MZN",
+    "synonyms": [
+      "MZN",
+      "Mozambique Metical"
+    ]
+  },
+  {
+    "value": "NAD",
+    "synonyms": [
+      "NAD",
+      "Namibia Dollar"
+    ]
+  },
+  {
+    "value": "NGN",
+    "synonyms": [
+      "NGN",
+      "Naira"
+    ]
+  },
+  {
+    "value": "NIO",
+    "synonyms": [
+      "NIO",
+      "Cordoba Oro"
+    ]
+  },
+  {
+    "value": "NOK",
+    "synonyms": [
+      "NOK",
+      "Norwegian Krone"
+    ]
+  },
+  {
+    "value": "NPR",
+    "synonyms": [
+      "NPR",
+      "Nepalese Rupee"
+    ]
+  },
+  {
+    "value": "NZD",
+    "synonyms": [
+      "NZD",
+      "New Zealand Dollar"
+    ]
+  },
+  {
+    "value": "OMR",
+    "synonyms": [
+      "OMR",
+      "Rial Omani"
+    ]
+  },
+  {
+    "value": "PAB",
+    "synonyms": [
+      "PAB",
+      "Balboa"
+    ]
+  },
+  {
+    "value": "PEN",
+    "synonyms": [
+      "PEN",
+      "Sol"
+    ]
+  },
+  {
+    "value": "PGK",
+    "synonyms": [
+      "PGK",
+      "Kina"
+    ]
+  },
+  {
+    "value": "PHP",
+    "synonyms": [
+      "PHP",
+      "Philippine Piso"
+    ]
+  },
+  {
+    "value": "PKR",
+    "synonyms": [
+      "PKR",
+      "Pakistan Rupee"
+    ]
+  },
+  {
+    "value": "PLN",
+    "synonyms": [
+      "PLN",
+      "Zloty"
+    ]
+  },
+  {
+    "value": "PYG",
+    "synonyms": [
+      "PYG",
+      "Guarani"
+    ]
+  },
+  {
+    "value": "QAR",
+    "synonyms": [
+      "QAR",
+      "Qatari Rial"
+    ]
+  },
+  {
+    "value": "RON",
+    "synonyms": [
+      "RON",
+      "Romanian Leu"
+    ]
+  },
+  {
+    "value": "RSD",
+    "synonyms": [
+      "RSD",
+      "Serbian Dinar"
+    ]
+  },
+  {
+    "value": "RUB",
+    "synonyms": [
+      "RUB",
+      "Russian Ruble"
+    ]
+  },
+  {
+    "value": "RWF",
+    "synonyms": [
+      "RWF",
+      "Rwanda Franc"
+    ]
+  },
+  {
+    "value": "SAR",
+    "synonyms": [
+      "SAR",
+      "Saudi Riyal"
+    ]
+  },
+  {
+    "value": "SBD",
+    "synonyms": [
+      "SBD",
+      "Solomon Islands Dollar"
+    ]
+  },
+  {
+    "value": "SCR",
+    "synonyms": [
+      "SCR",
+      "Seychelles Rupee"
+    ]
+  },
+  {
+    "value": "SDG",
+    "synonyms": [
+      "SDG",
+      "Sudanese Pound"
+    ]
+  },
+  {
+    "value": "SEK",
+    "synonyms": [
+      "SEK",
+      "Swedish Krona"
+    ]
+  },
+  {
+    "value": "SGD",
+    "synonyms": [
+      "SGD",
+      "Singapore Dollar"
+    ]
+  },
+  {
+    "value": "SHP",
+    "synonyms": [
+      "SHP",
+      "Saint Helena Pound"
+    ]
+  },
+  {
+    "value": "SLL",
+    "synonyms": [
+      "SLL",
+      "Leone"
+    ]
+  },
+  {
+    "value": "SOS",
+    "synonyms": [
+      "SOS",
+      "Somali Shilling"
+    ]
+  },
+  {
+    "value": "SRD",
+    "synonyms": [
+      "SRD",
+      "Surinam Dollar"
+    ]
+  },
+  {
+    "value": "SSP",
+    "synonyms": [
+      "SSP",
+      "South Sudanese Pound"
+    ]
+  },
+  {
+    "value": "STN",
+    "synonyms": [
+      "STN",
+      "Dobra"
+    ]
+  },
+  {
+    "value": "SVC",
+    "synonyms": [
+      "SVC",
+      "El Salvador Colon"
+    ]
+  },
+  {
+    "value": "SYP",
+    "synonyms": [
+      "SYP",
+      "Syrian Pound"
+    ]
+  },
+  {
+    "value": "SZL",
+    "synonyms": [
+      "SZL",
+      "Lilangeni"
+    ]
+  },
+  {
+    "value": "THB",
+    "synonyms": [
+      "THB",
+      "Baht"
+    ]
+  },
+  {
+    "value": "TJS",
+    "synonyms": [
+      "TJS",
+      "Somoni"
+    ]
+  },
+  {
+    "value": "TMT",
+    "synonyms": [
+      "TMT",
+      "Turkmenistan New Manat"
+    ]
+  },
+  {
+    "value": "TND",
+    "synonyms": [
+      "TND",
+      "Tunisian Dinar"
+    ]
+  },
+  {
+    "value": "TOP",
+    "synonyms": [
+      "TOP",
+      "Pa'anga"
+    ]
+  },
+  {
+    "value": "TRY",
+    "synonyms": [
+      "TRY",
+      "Turkish Lira"
+    ]
+  },
+  {
+    "value": "TTD",
+    "synonyms": [
+      "TTD",
+      "Trinidad and Tobago Dollar"
+    ]
+  },
+  {
+    "value": "TWD",
+    "synonyms": [
+      "TWD",
+      "New Taiwan Dollar"
+    ]
+  },
+  {
+    "value": "TZS",
+    "synonyms": [
+      "TZS",
+      "Tanzanian Shilling"
+    ]
+  },
+  {
+    "value": "UAH",
+    "synonyms": [
+      "UAH",
+      "Hryvnia"
+    ]
+  },
+  {
+    "value": "UGX",
+    "synonyms": [
+      "UGX",
+      "Uganda Shilling"
+    ]
+  },
+  {
+    "value": "USD",
+    "synonyms": [
+      "USD",
+      "US Dollar"
+    ]
+  },
+  {
+    "value": "USN",
+    "synonyms": [
+      "USN",
+      "US Dollar (Next day)"
+    ]
+  },
+  {
+    "value": "UYI",
+    "synonyms": [
+      "UYI",
+      "Uruguay Peso en Unidades Indexadas (URUIURUI)"
+    ]
+  },
+  {
+    "value": "UYU",
+    "synonyms": [
+      "UYU",
+      "Peso Uruguayo"
+    ]
+  },
+  {
+    "value": "UZS",
+    "synonyms": [
+      "UZS",
+      "Uzbekistan Sum"
+    ]
+  },
+  {
+    "value": "VEF",
+    "synonyms": [
+      "VEF",
+      "Bolívar"
+    ]
+  },
+  {
+    "value": "VND",
+    "synonyms": [
+      "VND",
+      "Dong"
+    ]
+  },
+  {
+    "value": "VUV",
+    "synonyms": [
+      "VUV",
+      "Vatu"
+    ]
+  },
+  {
+    "value": "WST",
+    "synonyms": [
+      "WST",
+      "Tala"
+    ]
+  },
+  {
+    "value": "XAF",
+    "synonyms": [
+      "XAF",
+      "CFA Franc BEAC"
+    ]
+  },
+  {
+    "value": "XAG",
+    "synonyms": [
+      "XAG",
+      "Silver"
+    ]
+  },
+  {
+    "value": "XAU",
+    "synonyms": [
+      "XAU",
+      "Gold"
+    ]
+  },
+  {
+    "value": "XBA",
+    "synonyms": [
+      "XBA",
+      "Bond Markets Unit European Composite Unit (EURCO)"
+    ]
+  },
+  {
+    "value": "XBB",
+    "synonyms": [
+      "XBB",
+      "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
+    ]
+  },
+  {
+    "value": "XBC",
+    "synonyms": [
+      "XBC",
+      "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
+    ]
+  },
+  {
+    "value": "XBD",
+    "synonyms": [
+      "XBD",
+      "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
+    ]
+  },
+  {
+    "value": "XCD",
+    "synonyms": [
+      "XCD",
+      "East Caribbean Dollar"
+    ]
+  },
+  {
+    "value": "XDR",
+    "synonyms": [
+      "XDR",
+      "SDR (Special Drawing Right)"
+    ]
+  },
+  {
+    "value": "XOF",
+    "synonyms": [
+      "XOF",
+      "CFA Franc BCEAO"
+    ]
+  },
+  {
+    "value": "XPD",
+    "synonyms": [
+      "XPD",
+      "Palladium"
+    ]
+  },
+  {
+    "value": "XPF",
+    "synonyms": [
+      "XPF",
+      "CFP Franc"
+    ]
+  },
+  {
+    "value": "XPT",
+    "synonyms": [
+      "XPT",
+      "Platinum"
+    ]
+  },
+  {
+    "value": "XSU",
+    "synonyms": [
+      "XSU",
+      "Sucre"
+    ]
+  },
+  {
+    "value": "XTS",
+    "synonyms": [
+      "XTS",
+      "Codes specifically reserved for testing purposes"
+    ]
+  },
+  {
+    "value": "XUA",
+    "synonyms": [
+      "XUA",
+      "ADB Unit of Account"
+    ]
+  },
+  {
+    "value": "XXX",
+    "synonyms": [
+      "XXX",
+      "The codes assigned for transactions where no currency is involved"
+    ]
+  },
+  {
+    "value": "YER",
+    "synonyms": [
+      "YER",
+      "Yemeni Rial"
+    ]
+  },
+  {
+    "value": "ZAR",
+    "synonyms": [
+      "ZAR",
+      "Rand"
+    ]
+  },
+  {
+    "value": "ZMW",
+    "synonyms": [
+      "ZMW",
+      "Zambian Kwacha"
+    ]
+  },
+  {
+    "value": "ZWL",
+    "synonyms": [
+      "ZWL",
+      "Zimbabwe Dollar"
+    ]
+  }
+]
